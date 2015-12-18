@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/einar/android_core/src/android_core/android_tutorial_pubsub/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/home/einar/android_core/src/android_core/android_tutorial_pubsub/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="NA">"N/A"</string>
+    <string name="TangoError">"Tango exception! Try again!"</string>
+    <string name="TangoOutOfDateException">"Tango service outdated!"</string>
+    <string name="app_name">PubSubTutorial</string>
+    <string name="appversion">"App version: "</string>
+    <string name="autorecoveryoff">Auto recovery off</string>
+    <string name="autorecoveryon">Auto recovery on</string>
+    <!-- From: file:/home/einar/android_core/src/android_core/android_tutorial_pubsub/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.2.0/res/values/values.xml -->
+    <eat-comment/>
+    <string name="cancel">Cancel</string>
+    <!-- From: file:/home/einar/android_core/src/android_core/android_tutorial_pubsub/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="deltatime">", delta time(ms): "</string>
+    <string name="first_person">First</string>
+    <string name="latest_adf_is">", Latest ADF is: "</string>
+    <!-- From: file:/home/einar/android_core/src/android_core/android_tutorial_pubsub/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.2.0/res/values/values.xml -->
+    <eat-comment/>
+    <string name="master_uri_hint">http://localhost:11311/</string>
+    <!-- From: file:/home/einar/android_core/src/android_core/android_tutorial_pubsub/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="menu_name"> Java Motion Tracking</string>
+    <string name="motiontrackingpermission">"Motion Tracking permission needed!"</string>
+    <!-- From: file:/home/einar/android_core/src/android_core/android_tutorial_pubsub/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.2.0/res/values/values.xml -->
+    <eat-comment/>
+    <string name="new_master">New Public Master</string>
+    <string name="new_private_master">New Private Master</string>
+    <!-- From: file:/home/einar/android_core/src/android_core/android_tutorial_pubsub/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="pointCount">Point count: </string>
+    <string name="pose">", position(m): "</string>
+    <string name="pose_initializing">"initializing"</string>
+    <string name="pose_invalid">"invalid"</string>
+    <string name="pose_unknown">"unknown"</string>
+    <string name="pose_valid">"valid"</string>
+    <string name="posecount">", count: "</string>
+    <!-- From: file:/home/einar/android_core/src/android_core/android_tutorial_pubsub/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.2.0/res/values/values.xml -->
+    <eat-comment/>
+    <string name="qr_code">Read QRCode</string>
+    <!-- From: file:/home/einar/android_core/src/android_core/android_tutorial_pubsub/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="quat">", orientation: "</string>
+    <string name="resetmotiontracking">"Reset motion tracking"</string>
+    <!-- From: file:/home/einar/android_core/src/android_core/android_tutorial_pubsub/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.2.0/res/values/values.xml -->
+    <eat-comment/>
+    <string name="select_interface">Select network interface</string>
+    <!-- From: file:/home/einar/android_core/src/android_core/android_tutorial_pubsub/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="serviceversion">Tango service version:</string>
+    <!-- From: file:/home/einar/android_core/src/android_core/android_tutorial_pubsub/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.2.0/res/values/values.xml -->
+    <eat-comment/>
+    <string name="show_advanced">Show advanced options</string>
+    <!-- From: file:/home/einar/android_core/src/android_core/android_tutorial_pubsub/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="start">Start</string>
+    <string name="start2device">Target->Device, Base->Start: </string>
+    <string name="status">"status: "</string>
+    <string name="tangoevent">"Tango system event: "</string>
+    <string name="third_person">Third</string>
+    <string name="top_down">Top</string>
+    <!-- From: file:/home/einar/android_core/src/android_core/android_tutorial_pubsub/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.2.0/res/values/values.xml -->
+    <eat-comment/>
+    <string name="uri_text">Master URI:</string>
+    <string name="use_master">Connect</string>
+    <!-- From: file:/home/einar/android_core/src/android_core/android_tutorial_pubsub/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="vertex_count">Number of Points:</string>
+    <!-- From: file:/home/einar/android_core/src/android_core/android_tutorial_pubsub/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <!-- From: file:/home/einar/android_core/src/android_core/android_tutorial_pubsub/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.2.0/res/values/values.xml -->
+    <eat-comment/>
+    <style name="padded">
+        <item name="android:layout_marginTop">10dp</item>
+    </style>
+</resources>
